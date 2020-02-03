@@ -1,29 +1,16 @@
-# pro
+# vue-showmore-demo
 
-## Project setup
-```
-yarn install
-```
+## noticebar 组件地址
 
-### Compiles and hot-reloads for development
-```
-yarn run serve
-```
+[https://github.com/Chance722/vue-showmore](https://github.com/Chance722/vue-showmore)
 
-### Compiles and minifies for production
+## Demo 运行
+
 ```
-yarn run build
+yarn
+yarn serve
 ```
 
-### Run your tests
-```
-yarn run test
-```
+## Demo 地址
 
-### Lints and fixes files
-```
-yarn run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+- [https://chance722.github.io/vue-showmore-demo/](https://chance722.github.io/vue-showmore-demo/)
