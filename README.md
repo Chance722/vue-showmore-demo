@@ -1,6 +1,6 @@
 # vue-showmore-demo
 
-## noticebar 组件地址
+## vue-showmore 组件地址
 
 [https://github.com/Chance722/vue-showmore](https://github.com/Chance722/vue-showmore)
 
